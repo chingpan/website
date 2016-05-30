@@ -84,14 +84,15 @@
     }
     .color000{
     	color:#000;
+    }   
+    .toolTag
+    {
+      border-bottom: 1px solid #fff;
+    }   
+    .mailTag
+    {
+      padding: 2px;
+      background: #ddd;
     }
 	
-  	.toolTag
-  	{
-  		border-bottom: 1px solid #fff;
-  	}
-  	.mailTag
-  	{
-  		padding: 2px;
-  		background: #ddd;
-  	}
+
